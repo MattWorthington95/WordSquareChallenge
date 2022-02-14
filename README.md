@@ -2,7 +2,7 @@
 
 ## Instructions of how to clone, install dependencies and run tests
 
-- Clone git repo from https://github.com/MattWorthington95/be-nc-games
+- Clone git repo from https://github.com/MattWorthington95/WordSquareChallenge
 - Once cloned, run `npm i ` to install dependencies
 - run `npm test` to run all the Jest tests
 
